@@ -1,0 +1,5 @@
+python -m pip install aggdraw certifi chardet click comtypes cycler ez-setup Flask idna imageio imutils itsdangerous Jinja2 joblib kiwisolver MarkupSafe matplotlib mutagen Naked numpy opencv-python pandas Pillow pycryptodome pygame pyparsing pypiwin32 python-dateutil pyttsx3 pytz pywin32 PyYAML requests scikit-learn scipy Shapely shellescape six sklearn torch ttkthemes urllib3 Werkzeug XlsxWriter
+
+set FLASK_APP=main.py
+set FLASK_ENV=development
+python -m Flask run
